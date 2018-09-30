@@ -1,4 +1,5 @@
 flows:
-  07a58e39-1fb6-4cb6-a2bb-fa43932de389: {ver: 4, file: Test.snapshot}
+  7d1b7495-f4c8-4c38-b4e6-00cc828a90d7: {ver: 1, file: Example.snapshot}
+  487db365-6988-4f8f-9b48-c070a74409f0: {ver: 1, file: Example1.snapshot}
 layoutVer: 1
-bucketId: e8c90ffd-151c-48d5-b6cc-df2b267a28ac
+bucketId: d0eef6ed-9ec0-4376-81f3-3a73429c3b23
